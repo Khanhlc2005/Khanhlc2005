@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java, C++**
 
-- 📫 How to reach me **https://www.facebook.com/profile.php?id=100009935022161&locale=vi_VN**
+- 📫 How to reach me **www.linkedin.com/in/khánh-bùi-bbb996293**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
