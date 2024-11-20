@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khánh, You can call me Lewis</h1>
+<h1 align="center">Hi 👋, I'm Khánh(Lewis)</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhlc2005&label=Profile%20views&color=0e75b6&style=flat" alt="khanhlc2005" /> </p>
